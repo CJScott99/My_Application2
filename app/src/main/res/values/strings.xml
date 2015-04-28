@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_login2">login2</string>
+    <string name="title_activity_register">register</string>
+    <string name="title_activity_register2">register2</string>
+    <string name="title_activity_profile">profile</string>
+    <string name="title_activity_settings">settings</string>
+</resources>
